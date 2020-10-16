@@ -8,7 +8,7 @@
 
 #### Connect with me:
 
-[<img src="https://img.icons8.com/flat_round/64/000000/link--v1.png" width="26px">](https://madigun697.github.io/blog) [<img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="26px">](https://www.linkedin.com/in/joohyung-you) [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="26px"/>](https://github.com/madigun697) [<img src="https://img.icons8.com/material-rounded/24/000000/filled-sent.png" width="26px"/>](jh697.you@gmail.com)
+[<img src="https://img.icons8.com/flat_round/64/000000/link--v1.png" width="26px">](https://madigun697.github.io/blog) [<img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="26px">](https://www.linkedin.com/in/joohyung-you) [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="26px"/>](https://github.com/madigun697) [<img src="https://img.icons8.com/material-rounded/24/000000/filled-sent.png" width="26px"/>](mailto:jh697.you@gmail.com)
 
 #### Language and Tools:
 
