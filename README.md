@@ -5,7 +5,11 @@
 # 🐱 I'm Joohyung You ─ @madigun697
 
 
-<p align="center">I'm a Data Scientist 🕵🏼‍♂️, Software Engineer 👨🏻‍💻, and Student 👨🏼‍🎓. <br>  I'm taking a classes for Deep Learning Nanodegree at Udacity <img alt="udacity" width="22px" src="https://user-images.githubusercontent.com/8471958/96035059-52bbad00-0e17-11eb-8d8f-ded9e8c20164.png">, now. <br> And I'm waiting to start for the master's degree of computer science at University Texas at Austin(2021 Spring <img alt="utaustin" width="22px" src="https://user-images.githubusercontent.com/8471958/96035428-e2615b80-0e17-11eb-8c27-3a565a4f1c14.png">). <br> I love to analyze data to satisfy my curiosity as to various domains (football, healthcare, or the law). I also love to create application(I'm learning Flutter to develop my new application)</p>
+<p align="center">I'm a Data Scientist 🕵🏼‍♂️, Software Engineer 👨🏻‍💻, and Student 👨🏼‍🎓. And I'm waiting to start for the master's degree of computer science at University Texas at Austin(2021 Spring <img alt="utaustin" width="22px" src="https://user-images.githubusercontent.com/8471958/96035428-e2615b80-0e17-11eb-8c27-3a565a4f1c14.png">). </p> 
+
+- Forward-thinking Data Scientist experienced working with large datasets, breaking down information, and applying interpretations to complex business concerns in various domains, including natural language processing, sales prediction, trajectory clustering, target marketing, and abuser detection.
+- Co-inventor of a patent for the time-series prediction method. Adaptive, receptive, and a problem-solver at work while sharpening skills on personal projects. 
+- Cross-cultural communication skills in law, healthcare, sports, and finance. Strives to deliver solutions to reveal hidden insights through curiosity and analytical ability.
 
 ## 📬 Connect with me :
 
